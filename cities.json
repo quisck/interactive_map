@@ -1,0 +1,163 @@
+
+[
+    {
+        "name": "Tokyo",
+        "country": "Japan",
+        "lat": "35.6762",
+        "long": "139.6503",
+        "population": "14 million",
+        "fact": "Tokyo is the capital of Japan."
+    },
+    {
+        "name": "New York City",
+        "country": "United States",
+        "lat": "40.7128",
+        "long": "-74.0060",
+        "population": "8.3 million",
+        "fact": "New York City is known for the Statue of Liberty."
+    },
+    {
+        "name": "London",
+        "country": "United Kingdom",
+        "lat": "51.5072",
+        "long": "-0.1276",
+        "population": "9 million",
+        "fact": "London is the capital of the United Kingdom."
+    },
+    {
+        "name": "Paris",
+        "country": "France",
+        "lat": "48.8566",
+        "long": "2.3522",
+        "population": "2.1 million",
+        "fact": "Paris is known for the Eiffel Tower."
+    },
+    {
+        "name": "Brussels",
+        "country": "Belgium",
+        "lat": "50.8503",
+        "long": "4.3517",
+        "population": "1.2 million",
+        "fact": "Brussels is the capital of Belgium."
+    },
+    {
+        "name": "Dubai",
+        "country": "United Arab Emirates",
+        "lat": "25.2048",
+        "long": "55.2708",
+        "population": "3.6 million",
+        "fact": "Dubai is known for the Burj Khalifa."
+    },
+    {
+        "name": "Sydney",
+        "country": "Australia",
+        "lat": "-33.8688",
+        "long": "151.2093",
+        "population": "5.3 million",
+        "fact": "Sydney is known for its Opera House."
+    },
+    {
+        "name": "Rome",
+        "country": "Italy",
+        "lat": "41.9028",
+        "long": "12.4964",
+        "population": "2.8 million",
+        "fact": "Rome is home to the Colosseum."
+    },
+    {
+        "name": "Berlin",
+        "country": "Germany",
+        "lat": "52.5200",
+        "long": "13.4050",
+        "population": "3.8 million",
+        "fact": "Berlin is the capital of Germany."
+    },
+    {
+        "name": "Amsterdam",
+        "country": "Netherlands",
+        "lat": "52.3676",
+        "long": "4.9041",
+        "population": "0.9 million",
+        "fact": "Amsterdam is known for its canals."
+    },
+    {
+        "name": "Madrid",
+        "country": "Spain",
+        "lat": "40.4168",
+        "long": "-3.7038",
+        "population": "3.3 million",
+        "fact": "Madrid is the capital of Spain."
+    },
+    {
+        "name": "Seoul",
+        "country": "South Korea",
+        "lat": "37.5665",
+        "long": "126.9780",
+        "population": "9.4 million",
+        "fact": "Seoul is the capital of South Korea."
+    },
+    {
+        "name": "Beijing",
+        "country": "China",
+        "lat": "39.9042",
+        "long": "116.4074",
+        "population": "21.9 million",
+        "fact": "Beijing is the capital of China."
+    },
+    {
+        "name": "Cairo",
+        "country": "Egypt",
+        "lat": "30.0444",
+        "long": "31.2357",
+        "population": "10 million",
+        "fact": "Cairo is the capital of Egypt."
+    },
+    {
+        "name": "Istanbul",
+        "country": "Turkey",
+        "lat": "41.0082",
+        "long": "28.9784",
+        "population": "15.7 million",
+        "fact": "Istanbul is located in Europe and Asia."
+    },
+    {
+        "name": "Toronto",
+        "country": "Canada",
+        "lat": "43.6532",
+        "long": "-79.3832",
+        "population": "2.8 million",
+        "fact": "Toronto is the largest city in Canada by population."
+    },
+    {
+        "name": "Los Angeles",
+        "country": "United States",
+        "lat": "34.0522",
+        "long": "-118.2437",
+        "population": "3.8 million",
+        "fact": "Los Angeles is known for Hollywood."
+    },
+    {
+        "name": "Singapore",
+        "country": "Singapore",
+        "lat": "1.3521",
+        "long": "103.8198",
+        "population": "6 million",
+        "fact": "Singapore is both a city and a country."
+    },
+    {
+        "name": "Rio de Janeiro",
+        "country": "Brazil",
+        "lat": "-22.9068",
+        "long": "-43.1729",
+        "population": "6.2 million",
+        "fact": "Rio de Janeiro is known for its Carnival."
+    },
+    {
+        "name": "Mexico City",
+        "country": "Mexico",
+        "lat": "19.4326",
+        "long": "-99.1332",
+        "population": "9.2 million",
+        "fact": "Mexico City is the capital of Mexico."
+    }
+]
